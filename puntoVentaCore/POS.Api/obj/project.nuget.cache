@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EcVqcXIrr8XX+mQbe2Kc/XDGZ93LUOgChSXc67Pe5XyUYu687ZYW1+tTecDY0kYyDmABSdyLVQS5trjnmC7WBQ==",
+  "success": true,
+  "projectFilePath": "C:\\paquisha\\program\\puntoVenta\\puntoVentaCore\\POS.Api\\POS.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agrosoft\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Agrosoft\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Agrosoft\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Agrosoft\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Agrosoft\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Agrosoft\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
